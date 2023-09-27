@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+<img alt="Totoro" src="https://media2.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=ecf05e47q646if6efmsuflukzy39grffjjneltenoieuxrs4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 <!--
 **MrGreyPanda/MrGreyPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
