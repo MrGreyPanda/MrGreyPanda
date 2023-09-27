@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Simon Aaron Menzi, currently finishing my Bachelor in Computational Science & Engineering while wokring as a Software Developer @ Confinale AG.
+
